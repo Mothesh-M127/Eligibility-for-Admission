@@ -4,15 +4,20 @@
 To write C# program to find the eligibility for admission to an engineering course
 
 ## Algorithnm:
-### STEP1 : Start the program and declare the variables required.
+### STEP1 :
+    Start the program and declare the variables required.
 
-### STEP2 : Obtain the input from the user and read the values.
+### STEP2 : 
+    Obtain the input from the user and read the values.
 
-### STEP3 : Calculate the total marks and check for the conditions.
+### STEP3 : 
+    Calculate the total marks and check for the conditions.
 
-### STEP4 : Print the required output.
+### STEP4 : 
+    Print the required output.
 
-### STEP5 : End the program.
+### STEP5 : 
+    End the program.
 
 
 ## Program:
